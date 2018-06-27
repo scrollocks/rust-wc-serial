@@ -1,0 +1,6 @@
+[package]
+name = "wc-serial"
+version = "0.1.0"
+authors = ["Jamie Skipworth <jamie@skipworth.io>"]
+
+[dependencies]
